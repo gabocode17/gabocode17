@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabocode17
-- 👀 I’m interested in coding, hacking, c lenguage.
+- 👀 I’m interested in coding, hacking, web dev.
 - 🌱 I’m currently learning react, Angular, jsx and web stuff.
 
 <!---
